@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hrios004
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning cybersecurity
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
